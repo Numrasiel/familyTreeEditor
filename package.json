@@ -1,0 +1,14 @@
+{
+  "name": "familiy-editor",
+  "version": "0.2.1",
+  "description": "JS Crash Course 2019",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Sanchez <gsusss2004@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
